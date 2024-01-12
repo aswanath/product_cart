@@ -1,6 +1,8 @@
 # product_cart
 
-A new Flutter project.
+## It is a simple app with products fetched from an API and we can change the item quantity and it will be reflected across the pages.
+
+### ❤️ It uses BLoC state management to persist the state.
 
 ## Getting Started
 
